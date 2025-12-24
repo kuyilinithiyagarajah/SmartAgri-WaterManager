@@ -22,8 +22,8 @@ The repository contains system diagrams, proposal documents, progress reports, a
 - C++
 
 ## Repository Contents
-- `Diagrams/` – System architecture, block & flow diagrams
-- `Documents/` – Proposal, progress report & final documentation
+- `Diagrams/` – System architecture & Flow diagrams
+- `Documents/` – Proposal & progress report documentation
 - `Presentation/` – Project presentation slides
 
 ## My Contributions
@@ -39,3 +39,4 @@ The repository contains system diagrams, proposal documents, progress reports, a
 
 ## Skills Demonstrated
 IoT · Embedded Systems · System Design · Documentation · Team Collaboration
+
